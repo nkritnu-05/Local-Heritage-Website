@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Rajasthan Heritage Explorer",
+  "description": "An immersive journey through the majestic regions of Rajasthan, featuring dark museum aesthetics and traditional folk music. i need clickable city names with pictures and the link will redirect the user to another page where there will be info aabout the city. the cities are jaipur, chittorgarh, jodhpur,bikaner, neemrana and pushkar\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
